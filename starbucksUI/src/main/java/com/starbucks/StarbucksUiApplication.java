@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StarbucksUiApplication {
 
 	public static void main(String[] args) {
+		//type code here
 		SpringApplication.run(StarbucksUiApplication.class, args);
 	}
 }
